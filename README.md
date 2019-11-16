@@ -1,13 +1,6 @@
 # piramida
 Make a Pyramid with n X
-// piramida.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
 
-#include <iostream>
-#include <math.h>
-
-using namespace std;
-int main()
 {
 	int i = 0, n;
 	cout << "Korisnice daj neki n! \n";
@@ -21,7 +14,5 @@ int main()
 
 		cout << endl;
 
-		//else cout << "x" << endl;
 	} while (i < n);
-
 }
