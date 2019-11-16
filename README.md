@@ -1,11 +1,9 @@
 # piramida
 Make a Pyramid with n X
 
-
-#include <iostream>
 #include <math.h>
-
 using namespace std;
+
 int main()
 {
 	int i = 0, n;
